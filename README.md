@@ -29,7 +29,7 @@ Welcome to the PythonQuizApp!
 
     ```
     $ python -m venv venv
-    $ python venv/bin/activate
+    $ python venv/scripts/activate
     ```
 
 4. Install the required dependencies:

@@ -80,7 +80,7 @@ Welcome to the PythonQuizApp!
 
 ## Key components:
     
-    The key components of "QuizApp" include:
+The key components of "PythonQuizApp" include:
     
   1. Question Model: Defines the structure of quiz questions, including the question text, correct answer, choices, tags, difficulty level, and category.
   
